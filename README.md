@@ -11,6 +11,7 @@ Hier liegen nur fertige Inhalte für Eltern und Kinder. Kein Code, keine interne
 | `emsi/posen/` | Freigestellte Emsi-Posen |
 | `emsi/phasen/` | Emsi vom Ei bis zur weisen Ameise |
 | `app/` | Handy-Screens der App |
+| `werkstatt/` | Baukasten für die Zeichentrick-Videos (Storyboards, Engine, Ton) |
 
 Direkter Link zu einer Datei:
 `https://raw.githubusercontent.com/Nkirukasarahr/emsibuddy-social/main/<pfad>`

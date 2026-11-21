@@ -1,0 +1,150 @@
+{
+ "titel": "Tafel und iPad",
+ "dauer": 18,
+ "szenen": [
+  {
+   "von": 0,
+   "bis": 4.5,
+   "texte": [
+    {
+     "art": "klein",
+     "text": "Meinung",
+     "oben": 160
+    },
+    {
+     "text": "Vor zehn Jahren: grüne <u>Tafel.</u>",
+     "groesse": 110,
+     "oben": 230
+    },
+    {
+     "art": "unter",
+     "text": "Heute: Whiteboard und iPad.",
+     "oben": 560
+    }
+   ],
+   "kulisse": [
+    "boden"
+   ],
+   "figuren": [
+    {
+     "pose": "redet",
+     "x": 540,
+     "stimmung": "neutral"
+    }
+   ]
+  },
+  {
+   "von": 4.5,
+   "bis": 8.5,
+   "texte": [
+    {
+     "text": "Was hat sich <u>geändert?</u>",
+     "groesse": 130,
+     "oben": 260
+    }
+   ],
+   "kulisse": [
+    "boden"
+   ],
+   "figuren": [
+    {
+     "pose": "zuckt",
+     "x": 540,
+     "stimmung": "verwirrt"
+    }
+   ]
+  },
+  {
+   "von": 8.5,
+   "bis": 13,
+   "texte": [
+    {
+     "text": "Die <u>Geräte.</u>",
+     "groesse": 150,
+     "oben": 240
+    },
+    {
+     "art": "unter",
+     "text": "Die Aufgaben sind dieselben. Und die Kinder, die nicht mitkommen, auch.",
+     "oben": 480
+    }
+   ],
+   "kulisse": [
+    "tisch"
+   ],
+   "figuren": [
+    {
+     "pose": "tisch",
+     "x": 250,
+     "y": 1420,
+     "stimmung": "traurig"
+    }
+   ]
+  },
+  {
+   "von": 13,
+   "bis": 18,
+   "logo": true,
+   "texte": [
+    {
+     "text": "Technik hilft erst, wenn sie anders <u>erklärt.</u>",
+     "groesse": 96,
+     "oben": 290
+    },
+    {
+     "art": "unter",
+     "text": "Nicht nur anders anzeigt. Wie seht ihr das?",
+     "oben": 680,
+     "rechts": 420
+    }
+   ],
+   "bilder": [
+    {
+     "datei": "nachdenklich.webp",
+     "x": 620,
+     "oben": 980,
+     "breite": 360
+    }
+   ],
+   "cta": "Schreibt es in die Kommentare 👇"
+  }
+ ],
+ "ton": {
+  "musik": "lofi",
+  "beat_ab": 13,
+  "effekte": [
+   [
+    0.3,
+    "pop"
+   ],
+   [
+    4.4,
+    "whoosh"
+   ],
+   [
+    4.7,
+    "boing"
+   ],
+   [
+    8.4,
+    "whoosh"
+   ],
+   [
+    8.8,
+    "pop"
+   ],
+   [
+    12.9,
+    "whoosh"
+   ],
+   [
+    13.3,
+    "glitzer"
+   ],
+   [
+    16.2,
+    "akkord"
+   ]
+  ]
+ }
+}

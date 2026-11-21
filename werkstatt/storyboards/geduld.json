@@ -1,0 +1,162 @@
+{
+ "titel": "Geduld 16:00 vs. 16:20",
+ "dauer": 17,
+ "szenen": [
+  {
+   "von": 0,
+   "bis": 4.2,
+   "uhr": {
+    "text": "16:00 Uhr",
+    "oben": 140
+   },
+   "blase": {
+    "text": "„Komm, wir schaffen das zusammen!“",
+    "oben": 440,
+    "ab": 0.4
+   },
+   "kulisse": [
+    "tisch"
+   ],
+   "figuren": [
+    {
+     "pose": "sitzt",
+     "x": 250,
+     "y": 1470,
+     "kind": true,
+     "stimmung": "neutral"
+    },
+    {
+     "pose": "steht",
+     "x": 880,
+     "stimmung": "froh"
+    }
+   ]
+  },
+  {
+   "von": 4.2,
+   "bis": 8.4,
+   "uhr": {
+    "text": "16:20 Uhr",
+    "oben": 140
+   },
+   "blase": {
+    "text": "„Das. Ist. Ein. A.“",
+    "oben": 440,
+    "ab": 0.3
+   },
+   "kulisse": [
+    "tisch"
+   ],
+   "figuren": [
+    {
+     "pose": "tisch",
+     "x": 250,
+     "y": 1420,
+     "stimmung": "traurig"
+    },
+    {
+     "pose": "steht",
+     "x": 880,
+     "stimmung": "genervt",
+     "schreck": true
+    }
+   ]
+  },
+  {
+   "von": 8.4,
+   "bis": 12.2,
+   "texte": [
+    {
+     "text": "Geduld ist <u>endlich.</u>",
+     "groesse": 130,
+     "oben": 300
+    },
+    {
+     "art": "unter",
+     "text": "Das macht euch nicht zu schlechten Eltern. Es macht euch zu Menschen.",
+     "oben": 620
+    }
+   ],
+   "bilder": [
+    {
+     "datei": "zuhoerend.webp",
+     "x": 330,
+     "oben": 1000,
+     "breite": 440
+    }
+   ]
+  },
+  {
+   "von": 12.2,
+   "bis": 17,
+   "logo": true,
+   "texte": [
+    {
+     "text": "Emsi hat unendlich viel <u>Geduld.</u>",
+     "groesse": 104,
+     "oben": 300
+    },
+    {
+     "art": "unter",
+     "text": "Euer Kind erklärt Emsi die Hausaufgaben. So oft es braucht.",
+     "oben": 700,
+     "rechts": 420
+    }
+   ],
+   "bilder": [
+    {
+     "datei": "springt.webp",
+     "x": 500,
+     "oben": 950,
+     "breite": 480,
+     "huepf": true
+    }
+   ],
+   "cta": "Zwei Monate gratis testen · Link im Profil"
+  }
+ ],
+ "ton": {
+  "musik": "froh",
+  "pausen": [
+   [
+    4.2,
+    8.4
+   ]
+  ],
+  "beat_ab": 12.2,
+  "effekte": [
+   [
+    0.5,
+    "pop"
+   ],
+   [
+    4.1,
+    "scratch"
+   ],
+   [
+    4.5,
+    "pop"
+   ],
+   [
+    4.6,
+    "boing"
+   ],
+   [
+    8.3,
+    "whoosh"
+   ],
+   [
+    12.1,
+    "whoosh"
+   ],
+   [
+    12.5,
+    "glitzer"
+   ],
+   [
+    15.2,
+    "akkord"
+   ]
+  ]
+ }
+}

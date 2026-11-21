@@ -1,0 +1,190 @@
+{
+ "titel": "Die unverständliche Aufgabe",
+ "dauer": 20,
+ "szenen": [
+  {
+   "von": 0,
+   "bis": 4,
+   "texte": [
+    {
+     "text": "Ich habe <u>studiert.</u>",
+     "groesse": 120,
+     "oben": 200
+    },
+    {
+     "art": "unter",
+     "text": "Und verstehe diese Aufgabe aus der dritten Klasse nicht.",
+     "oben": 500
+    }
+   ],
+   "kulisse": [
+    "boden"
+   ],
+   "figuren": [
+    {
+     "pose": "handy",
+     "x": 540,
+     "stimmung": "neutral"
+    }
+   ]
+  },
+  {
+   "von": 4,
+   "bis": 9,
+   "texte": [
+    {
+     "art": "klein",
+     "text": "Die Aufgabe",
+     "oben": 200
+    }
+   ],
+   "blase": {
+    "text": "„Lies den Text, unterstreiche alle Nomen und trage sie nach Artikeln geordnet in die Tabelle ein.“",
+    "oben": 270,
+    "links": 90,
+    "zipfel": 420,
+    "ab": 0.2
+   },
+   "kulisse": [
+    "boden"
+   ],
+   "figuren": [
+    {
+     "pose": "handy",
+     "x": 540,
+     "stimmung": "verwirrt"
+    }
+   ]
+  },
+  {
+   "von": 9,
+   "bis": 12,
+   "texte": [
+    {
+     "text": "„Was will die <u>von mir?</u>“",
+     "groesse": 120,
+     "oben": 220
+    }
+   ],
+   "kulisse": [
+    "boden"
+   ],
+   "figuren": [
+    {
+     "pose": "zuckt",
+     "x": 540,
+     "stimmung": "genervt",
+     "schreck": true
+    }
+   ]
+  },
+  {
+   "von": 12,
+   "bis": 15.5,
+   "texte": [
+    {
+     "text": "Oft liegt es am <u>Satz.</u> Nicht am Stoff.",
+     "groesse": 120,
+     "oben": 260
+    },
+    {
+     "art": "unter",
+     "text": "Drei Anweisungen in einem Satz. Da steigt jeder aus.",
+     "oben": 640
+    }
+   ],
+   "bilder": [
+    {
+     "datei": "nachdenklich.webp",
+     "x": 560,
+     "oben": 1000,
+     "breite": 440
+    }
+   ]
+  },
+  {
+   "von": 15.5,
+   "bis": 20,
+   "logo": true,
+   "texte": [
+    {
+     "text": "Emsi macht daraus <u>drei Schritte.</u>",
+     "groesse": 104,
+     "oben": 300
+    },
+    {
+     "art": "unter",
+     "text": "✓ Text lesen<br>✓ Nomen unterstreichen<br>✓ In die Tabelle eintragen",
+     "oben": 680,
+     "rechts": 440
+    }
+   ],
+   "bilder": [
+    {
+     "datei": "detektiv.webp",
+     "x": 620,
+     "oben": 980,
+     "breite": 360,
+     "huepf": true
+    }
+   ],
+   "cta": "Zwei Monate gratis testen · Link im Profil"
+  }
+ ],
+ "ton": {
+  "musik": "lofi",
+  "pausen": [
+   [
+    9,
+    12
+   ]
+  ],
+  "beat_ab": 15.5,
+  "effekte": [
+   [
+    0.2,
+    "pop"
+   ],
+   [
+    4.2,
+    "pop"
+   ],
+   [
+    9.0,
+    "scratch"
+   ],
+   [
+    9.2,
+    "boing"
+   ],
+   [
+    11.9,
+    "whoosh"
+   ],
+   [
+    15.4,
+    "whoosh"
+   ],
+   [
+    16.0,
+    "glitzer"
+   ],
+   [
+    16.6,
+    "pop"
+   ],
+   [
+    17.0,
+    "pop"
+   ],
+   [
+    17.4,
+    "pop"
+   ],
+   [
+    18.6,
+    "akkord"
+   ]
+  ]
+ }
+}

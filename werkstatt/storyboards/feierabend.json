@@ -1,0 +1,194 @@
+{
+ "titel": "Feierabend",
+ "dauer": 18,
+ "szenen": [
+  {
+   "von": 0,
+   "bis": 4.2,
+   "texte": [
+    {
+     "text": "Endlich <u>Feierabend.</u>",
+     "groesse": 118,
+     "oben": 170
+    },
+    {
+     "art": "unter",
+     "text": "Acht Stunden habe ich mich auf dieses Sofa gefreut.",
+     "oben": 470
+    }
+   ],
+   "kulisse": [
+    "sofa"
+   ],
+   "figuren": [
+    {
+     "pose": "geht",
+     "von_x": -150,
+     "x": 600,
+     "y": 1150,
+     "dauer": 1.8,
+     "dann": "sofa",
+     "stimmung": "froh"
+    }
+   ]
+  },
+  {
+   "von": 4.2,
+   "bis": 7.4,
+   "kulisse": [
+    "sofa"
+   ],
+   "figuren": [
+    {
+     "pose": "sofa",
+     "x": 600,
+     "y": 1210,
+     "stimmung": "schock",
+     "schreck": true
+    }
+   ],
+   "blase": {
+    "text": "„Mamaaa, ich hab noch Mathe auf!“",
+    "oben": 300,
+    "ab": 0.1
+   }
+  },
+  {
+   "von": 7.4,
+   "bis": 10.4,
+   "texte": [
+    {
+     "text": "Feierabend.<br>Ende:",
+     "groesse": 110,
+     "oben": 190
+    }
+   ],
+   "uhr": {
+    "text": "17:02 Uhr",
+    "oben": 420
+   },
+   "kulisse": [
+    "sofa"
+   ],
+   "figuren": [
+    {
+     "pose": "sofa",
+     "x": 600,
+     "y": 1210,
+     "stimmung": "schock"
+    }
+   ]
+  },
+  {
+   "von": 10.4,
+   "bis": 13.4,
+   "texte": [
+    {
+     "text": "Kennt <u>ihr?</u>",
+     "groesse": 150,
+     "oben": 200
+    }
+   ],
+   "kulisse": [
+    "tisch"
+   ],
+   "figuren": [
+    {
+     "pose": "tisch",
+     "x": 250,
+     "y": 1420,
+     "stimmung": "traurig"
+    }
+   ]
+  },
+  {
+   "von": 13.4,
+   "bis": 18,
+   "logo": true,
+   "texte": [
+    {
+     "text": "Hausaufgaben, ohne <u>Drama.</u>",
+     "groesse": 120,
+     "oben": 330
+    },
+    {
+     "art": "unter",
+     "text": "Euer Kind erklärt Emsi die Hausaufgaben. Ihr dürft Feierabend machen.",
+     "oben": 640,
+     "rechts": 420
+    }
+   ],
+   "bilder": [
+    {
+     "datei": "springt.webp",
+     "x": 500,
+     "oben": 880,
+     "breite": 540,
+     "ab": 0.3,
+     "huepf": true
+    }
+   ],
+   "cta": "Zwei Monate gratis testen · Link im Profil"
+  }
+ ],
+ "ton": {
+  "musik": "lofi",
+  "pausen": [
+   [
+    4.1,
+    13.3
+   ]
+  ],
+  "beat_ab": 13.4,
+  "effekte": [
+   [
+    0.15,
+    "schritte"
+   ],
+   [
+    2.15,
+    "thud"
+   ],
+   [
+    2.3,
+    "glitzer"
+   ],
+   [
+    4.1,
+    "scratch"
+   ],
+   [
+    4.25,
+    "pop"
+   ],
+   [
+    4.3,
+    "boing"
+   ],
+   [
+    7.5,
+    "tick"
+   ],
+   [
+    10.55,
+    "wahwah"
+   ],
+   [
+    13.3,
+    "whoosh"
+   ],
+   [
+    13.6,
+    "pop"
+   ],
+   [
+    14.45,
+    "glitzer"
+   ],
+   [
+    16.6,
+    "akkord"
+   ]
+  ]
+ }
+}

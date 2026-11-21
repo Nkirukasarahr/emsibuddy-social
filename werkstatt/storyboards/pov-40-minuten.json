@@ -1,0 +1,176 @@
+{
+ "titel": "POV: 40 Minuten, eine Aufgabe",
+ "dauer": 20,
+ "szenen": [
+  {
+   "von": 0,
+   "bis": 4,
+   "texte": [
+    {
+     "text": "POV: <u>40 Minuten.</u> Eine Aufgabe.",
+     "groesse": 100,
+     "oben": 220
+    }
+   ],
+   "uhr": {
+    "text": "16:40 Uhr",
+    "oben": 620
+   },
+   "kulisse": [
+    "tisch"
+   ],
+   "figuren": [
+    {
+     "pose": "tisch",
+     "x": 250,
+     "y": 1420,
+     "stimmung": "traurig"
+    }
+   ]
+  },
+  {
+   "von": 4,
+   "bis": 8,
+   "blase": {
+    "text": "„Lies den Text, markiere die Verben und schreibe drei Sätze in der Vergangenheit.“",
+    "oben": 260,
+    "links": 90,
+    "zipfel": 300,
+    "ab": 0.2
+   },
+   "kulisse": [
+    "tisch"
+   ],
+   "figuren": [
+    {
+     "pose": "tisch",
+     "x": 250,
+     "y": 1420,
+     "stimmung": "verwirrt"
+    }
+   ]
+  },
+  {
+   "von": 8,
+   "bis": 12,
+   "texte": [
+    {
+     "text": "Das Problem ist selten die Aufgabe. Es ist der <u>Anfang.</u>",
+     "groesse": 100,
+     "oben": 240
+    }
+   ],
+   "bilder": [
+    {
+     "datei": "nachdenklich.webp",
+     "x": 320,
+     "oben": 950,
+     "breite": 440
+    }
+   ]
+  },
+  {
+   "von": 12,
+   "bis": 16,
+   "texte": [
+    {
+     "text": "Fragt nur: Was ist der <u>allererste</u> Schritt?",
+     "groesse": 104,
+     "oben": 200
+    }
+   ],
+   "kulisse": [
+    "tisch"
+   ],
+   "figuren": [
+    {
+     "pose": "sitzt",
+     "x": 250,
+     "y": 1470,
+     "kind": true,
+     "stimmung": "froh"
+    }
+   ]
+  },
+  {
+   "von": 16,
+   "bis": 20,
+   "logo": true,
+   "texte": [
+    {
+     "text": "Der Code Knacker macht daraus <u>kleine Schritte.</u>",
+     "groesse": 96,
+     "oben": 290
+    },
+    {
+     "art": "unter",
+     "text": "Euer Kind fotografiert die Aufgabe, Emsi erklärt sie einfach.",
+     "oben": 680,
+     "rechts": 420
+    }
+   ],
+   "bilder": [
+    {
+     "datei": "detektiv.webp",
+     "x": 620,
+     "oben": 980,
+     "breite": 360,
+     "huepf": true
+    }
+   ],
+   "cta": "Zwei Monate gratis testen · Link im Profil"
+  }
+ ],
+ "ton": {
+  "musik": "lofi",
+  "pausen": [
+   [
+    0,
+    8
+   ]
+  ],
+  "beat_ab": 16,
+  "effekte": [
+   [
+    0.1,
+    "tick"
+   ],
+   [
+    3.2,
+    "tick"
+   ],
+   [
+    4.2,
+    "pop"
+   ],
+   [
+    7.9,
+    "whoosh"
+   ],
+   [
+    8.3,
+    "pop"
+   ],
+   [
+    11.9,
+    "whoosh"
+   ],
+   [
+    12.3,
+    "glitzer"
+   ],
+   [
+    15.9,
+    "whoosh"
+   ],
+   [
+    16.4,
+    "glitzer"
+   ],
+   [
+    18.4,
+    "akkord"
+   ]
+  ]
+ }
+}
